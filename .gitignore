@@ -1,0 +1,10 @@
+Binaries/*
+<<<<<<< HEAD
+Saved/*
+WindowsBuild/*
+Intermediate/*
+=======
+Intermediate/*
+Saved*
+>>>>>>> parent of 970190c... Revert "Initial"
+*.zip
